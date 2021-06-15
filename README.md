@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paras Madan</h1>
 <h3 align="center">Founder @CruXe and @AnalyticWare .I play around Machine Learning , NLP , Backend Development , Devops (AWS,GCP,Azure).</h3>
 
-- 🔭 I’m currently working on **CruXe**
+- 🔭 I’m currently working on **An AI based Summarisation Platform @CruXe**
 
 - 🌱 I’m currently learning **Kubernetes , Docker , NLP , Content Creation**
 
