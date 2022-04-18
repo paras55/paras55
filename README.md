@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AWS, Azure, Flask, Django**
 
-- 📫 How to reach me **parasmadan555@gmail.com**
+- 📫 How to reach me **paras@cruxe.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15UY-3IE3h0PMqvcMZ0suRegQLSdJImRG/view](https://drive.google.com/file/d/15UY-3IE3h0PMqvcMZ0suRegQLSdJImRG/view)
 
