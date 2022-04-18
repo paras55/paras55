@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paras Madan</h1>
-<h3 align="center">Founder @CruXe .I play around Machine Learning , NLP , Backend Development , Devops (AWS,GCP,Azure).</h3>
+<h3 align="center">Founder @Cruxe .I play around Machine Learning , NLP , Backend Development , Devops (AWS,GCP,Azure).</h3>
 
 - 🔭 I’m currently working on **An AI based Summarisation Platform @CruXe**
 
