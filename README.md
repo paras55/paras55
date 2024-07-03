@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paras Madan</h1>
 <h3 align="center">Founder @Cruxe. I play around Machine Learning, NLP, Backend Development, Devops(AWS,GCP,Azure).</h3>
 
-- 🔭 I founded **An AI based Summarisation Platform @Cruxe** and Search Engine for AI Generated Images (www.bestaiprompt.com)
+- 🔭 I founded **An AI based Summarisation Platform @Cruxe** (www.cruxe.in) and Search Engine for AI Generated Images (www.bestaiprompt.com)
 
 - 🌱 I’m currently learning **Kubernetes, Docker, NLP, Content Creation**
 
